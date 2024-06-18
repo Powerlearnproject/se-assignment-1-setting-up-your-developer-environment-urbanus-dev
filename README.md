@@ -15,18 +15,23 @@ This assignment aims to familiarize you with the tools and configurations necess
    Download Ubuntu 22.04: Go to the official Ubuntu download page and download the ISO file.https://releases.ubuntu.com/22.04/
 
    ![alt text](image.png)
-   Create a Bootable USB Drive: Use tools like Rufus (Windows) or dd (Linux) to create a bootable USB drive.
+
+  **Create a Bootable USB Drive: Use tools like Rufus (Windows) or dd (Linux) to create a bootable USB drive.**
+  
    ![alt text](image-1.png)
    ![alt text](image-2.png)
 
-   Install Ubuntu: Boot from the USB drive and follow the installation instructions.
+   **Boot from the USB drive and follow the installation instructions.**
+
    ![alt text](image-3.png)
    ![alt text](image-4.png)
    ![alt text](image-5.png)
    ![alt text](image-6.png)
    ![alt text](image-7.png)
 
-   installation 
+
+  **installation**
+
    ![alt text](image-8.png)
    ![alt text](image-9.png)
    ![alt text](image-10.png)
