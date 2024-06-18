@@ -17,7 +17,7 @@ This assignment aims to familiarize you with the tools and configurations necess
    ![alt text](image.png)
 
   **Create a Bootable USB Drive: Use tools like Rufus (Windows) or dd (Linux) to create a bootable USB drive.**
-  
+
    ![alt text](image-1.png)
    ![alt text](image-2.png)
 
@@ -32,7 +32,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 
   **installation**
 
-   ![alt text](image-8.png)
+  ![alt text](image-28.png)
    ![alt text](image-9.png)
    ![alt text](image-10.png)
    ![alt text](image-11.png)
