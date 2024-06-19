@@ -86,12 +86,9 @@ sudo apt update
 
 sudo apt install docker-ce
 
-
 sudo systemctl status docker
 
 docker --version
-
-
 
 **Challenges Faced**
 Encountered issues with MySQL installation where mysql_secure_installation failed to run properly.
